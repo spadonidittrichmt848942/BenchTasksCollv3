@@ -1,4 +1,4 @@
-# Evaluation script for sentiment-analyzer
+# Evaluation script for streaming-service
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

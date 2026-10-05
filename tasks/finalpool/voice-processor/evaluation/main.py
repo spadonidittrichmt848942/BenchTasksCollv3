@@ -1,4 +1,4 @@
-# Evaluation script for sentiment-analyzer
+# Evaluation script for voice-processor
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
